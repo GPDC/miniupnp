@@ -30,3 +30,8 @@ testigddescparse
 validateigddescparse
 dist/
 miniupnpc.egg-info/
+
+**/Debug/
+**/Release/
+**/miniupnpc.vcxproj.user
+**/miniupnpc.VC.db
